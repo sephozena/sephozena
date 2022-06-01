@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on ... test automation
+- 🔭 I’m currently working on ... test automation engineer
 - 🌱 I’m currently learning ... python, selenium, java 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...CI/CD
