@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working as a QA Engr./ Test Automation Engr.
+- 🔭 I’m currently working as a QA Engr/ Test Automation Engr
 - 🌱 I’m currently learning different tech stacks for Test Automation
 
 <!--- 📫 How to reach me: ...
